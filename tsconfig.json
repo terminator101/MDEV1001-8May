@@ -1,0 +1,10 @@
+{
+    "target": "cs6",
+    "module": "common.js",
+    "moduleResources": "made",
+    "strict": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedParatemthers": true,
+}
